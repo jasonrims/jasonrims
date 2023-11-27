@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jason Tarimo
 - 👀 I’m interested in Big data technologies and AI
-- 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on big data and data science projects
 - 📫 How to reach me ...
 
